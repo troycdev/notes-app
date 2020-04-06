@@ -2,7 +2,7 @@
 
 ## Description
 
-JavaScipt note-taking application.
+JavaScript note-taking application.
 
 ### Deployment
 
